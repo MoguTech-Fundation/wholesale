@@ -1,6 +1,7 @@
 {
-  "name": "zy-wholesale",
+  "name": "wholesale",
   "version": "0.1.0",
+  "homepage": "https://mogutech-fundation.github.io/wholesale/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
