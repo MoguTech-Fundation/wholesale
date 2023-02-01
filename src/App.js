@@ -45,8 +45,8 @@ function App() {
       ) : (
         <div className="alert container bg-warning text-dark">
           Something Goes Wrong, please contact administrator:{" "}
-          <a href="mailto:info@zyinternationaltrade.com" className="text-dark">
-            info@zyinternationaltrade.com
+          <a href="mailto:weijingjaylin@gmail.com" className="text-dark">
+            weijingjaylin@gmail.com
           </a>
         </div>
       )}
@@ -57,7 +57,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="bg-light text-danger w-100">
-          <h1 className="my-3 text-center text-weight-bold">ZY</h1>
+          <h1 className="my-3 text-center text-weight-bold">Company Name</h1>
         </div>
       </header>
       <div className="bg-black text-dark text-center py-1">
@@ -84,7 +84,7 @@ function App() {
       </div>
       {ifLoading ? <div className="container">Loading...</div> : products}
       <div className="footer py-3 container bg-secondary mt-3 text-light">
-        <small>Copyrights &copy; 2023, ZY International Trade Inc.</small>
+        <small>Copyrights &copy; 2023, MoguTech LLC.</small>
       </div>
     </div>
   );
